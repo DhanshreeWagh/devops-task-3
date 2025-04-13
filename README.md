@@ -11,3 +11,10 @@ Provision a Docker container using Terraform.
 - Initialized Terraform
 - Pulled nginx Docker image
 - Created and exposed container on port 8080
+
+## Files
+- main.tf
+- Screenshots of `terraform plan`, `apply`, and running container
+
+## Destroyed Resources
+Used `terraform destroy` to clean up.
